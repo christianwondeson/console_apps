@@ -1,0 +1,15 @@
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.exe
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.deps.json
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.dll
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\bin\Debug\netcoreapp3.1\grade.pdb
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.csprojAssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.dll
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.pdb
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.genruntimeconfig.cache
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.csproj.AssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\grade\grade\obj\Debug\netcoreapp3.1\grade.GeneratedMSBuildEditorConfig.editorconfig

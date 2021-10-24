@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pIsNqzO/nGkgbLvUsBOK5OKEYudNIV8d1Ykx8rNhbsWcmXLHXnC5KJCo68+BjyukSkeL3QaPm1V7mrQOGhi05Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\christian wondeson\\Documents\\c# intro\\grade\\grade\\grade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\christian wondeson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

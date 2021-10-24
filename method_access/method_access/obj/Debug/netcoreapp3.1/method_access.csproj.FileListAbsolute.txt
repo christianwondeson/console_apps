@@ -1,0 +1,13 @@
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.exe
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.deps.json
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.dll
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\bin\Debug\netcoreapp3.1\method_access.pdb
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.csprojAssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.dll
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.pdb
+C:\Users\christian wondeson\Documents\c# intro\method_access\method_access\obj\Debug\netcoreapp3.1\method_access.genruntimeconfig.cache
