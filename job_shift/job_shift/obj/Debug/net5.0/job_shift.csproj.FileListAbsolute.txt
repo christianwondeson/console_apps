@@ -1,0 +1,16 @@
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.exe
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.deps.json
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.dll
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\ref\job_shift.dll
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\bin\Debug\net5.0\job_shift.pdb
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.csproj.AssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.dll
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\ref\job_shift.dll
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.pdb
+C:\Users\christian wondeson\Documents\c# intro\job_shift\job_shift\obj\Debug\net5.0\job_shift.genruntimeconfig.cache

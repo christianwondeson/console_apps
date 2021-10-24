@@ -1,0 +1,16 @@
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.exe
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.deps.json
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.dll
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\ref\string _bob.dll
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\bin\Debug\net5.0\string _bob.pdb
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.csproj.AssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.dll
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\ref\string _bob.dll
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.pdb
+C:\Users\christian wondeson\Documents\c# intro\string _bob\string _bob\obj\Debug\net5.0\string _bob.genruntimeconfig.cache

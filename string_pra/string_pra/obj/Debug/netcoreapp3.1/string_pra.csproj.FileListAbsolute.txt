@@ -1,0 +1,14 @@
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.exe
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.deps.json
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.dll
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\bin\Debug\netcoreapp3.1\string_pra.pdb
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.dll
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.pdb
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.genruntimeconfig.cache
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.csproj.AssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\string_pra\string_pra\obj\Debug\netcoreapp3.1\string_pra.GeneratedMSBuildEditorConfig.editorconfig

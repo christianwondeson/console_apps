@@ -1,0 +1,16 @@
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.exe
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.deps.json
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.runtimeconfig.json
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.runtimeconfig.dev.json
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.dll
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\ref\string_Manipulation.dll
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\bin\Debug\net5.0\string_Manipulation.pdb
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.csproj.AssemblyReference.cache
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.AssemblyInfoInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.AssemblyInfo.cs
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.csproj.CoreCompileInputs.cache
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.dll
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\ref\string_Manipulation.dll
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.pdb
+C:\Users\christian wondeson\Documents\c# intro\string_Manipulation\string_Manipulation\obj\Debug\net5.0\string_Manipulation.genruntimeconfig.cache
